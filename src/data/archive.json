@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2025-03-14",
+    "title": "Sensor Lab prototype, rev. 2",
+    "type": "Build",
+    "description": "Starter entry — replace with a dated project milestone, experiment, or release.",
+    "tags": ["hardware", "sensor-lab"]
+  },
+  {
+    "date": "2025-02-20",
+    "title": "First readings from the bench",
+    "type": "Learning",
+    "description": "Starter entry — note what you tested, what surprised you, and what comes next.",
+    "tags": ["testing", "sensor-lab"]
+  },
+  {
+    "date": "2024-11-08",
+    "title": "Field Notes shared with the team",
+    "type": "Release",
+    "description": "Starter entry — record a launch, handoff, demo, or other moment worth remembering.",
+    "tags": ["software", "field-notes"]
+  },
+  {
+    "date": "2024-09-16",
+    "title": "Joined the campus makers group",
+    "type": "Community",
+    "description": "Starter entry — add a workshop, event, team meeting, or community contribution.",
+    "tags": ["community", "learning"]
+  },
+  {
+    "date": "2024-05-02",
+    "title": "A first CAD prototype",
+    "type": "Build",
+    "description": "Starter entry — capture an early experiment, even if it did not work as planned.",
+    "tags": ["prototyping", "open-bench"]
+  }
+]

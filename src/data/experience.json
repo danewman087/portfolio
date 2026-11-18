@@ -1,0 +1,23 @@
+[
+  {
+    "period": "2025 — present",
+    "title": "Add your current role",
+    "organization": "Team, company, or university",
+    "description": "Use this space for a concise, specific note about what you do and what you are learning.",
+    "kind": "Experience"
+  },
+  {
+    "period": "2023 — 2027",
+    "title": "Add your degree or program",
+    "organization": "University or school · City, State",
+    "description": "Include a focus area, relevant coursework, or an academic milestone if it helps tell your story.",
+    "kind": "Education"
+  },
+  {
+    "period": "2022 — 2024",
+    "title": "Add a team, club, or earlier role",
+    "organization": "Organization or project",
+    "description": "Highlight a meaningful responsibility, collaboration, or skill you brought to the group.",
+    "kind": "Experience"
+  }
+]

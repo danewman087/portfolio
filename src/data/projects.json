@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sensor-lab",
+    "title": "Sensor Lab",
+    "subtitle": "A calmer way to collect better data.",
+    "year": "2025",
+    "type": "Embedded systems",
+    "summary": "A starter case study for an instrumentation project. Replace this with the problem you tackled and what you learned.",
+    "tags": ["C++", "Sensors", "PCB design"],
+    "role": "Project lead · Replace with your role",
+    "duration": "Replace with project dates",
+    "problem": "Describe the user, system, or engineering problem. What was difficult about the starting point?",
+    "approach": "Outline the design decisions, experiments, and iterations that shaped your solution.",
+    "outcome": "Add the measurable result, what you validated, and what you would improve next."
+  },
+  {
+    "id": "field-notes",
+    "title": "Field Notes",
+    "subtitle": "Small observations, made useful.",
+    "year": "2024",
+    "type": "Software",
+    "summary": "A starter case study for a software or data project. Use the archive to link its smaller milestones over time.",
+    "tags": ["Python", "Data", "Design"],
+    "role": "Builder · Replace with your role",
+    "duration": "Replace with project dates",
+    "problem": "Describe the question this project set out to answer and who needed the answer.",
+    "approach": "Explain how you gathered requirements, chose tools, and tested the experience.",
+    "outcome": "Share what shipped, who used it, and any useful numbers or feedback."
+  },
+  {
+    "id": "open-bench",
+    "title": "Open Bench",
+    "subtitle": "Making the workbench more welcoming.",
+    "year": "2024",
+    "type": "Product design",
+    "summary": "A starter case study for a team, club, or community project. Replace it with work you are proud to share.",
+    "tags": ["Prototyping", "CAD", "Teamwork"],
+    "role": "Contributor · Replace with your role",
+    "duration": "Replace with project dates",
+    "problem": "Set the scene: what constraint, opportunity, or user need got your team started?",
+    "approach": "Describe your contribution and how your team moved from an idea to a working prototype.",
+    "outcome": "Document the final result and the most important thing you took away."
+  }
+]
